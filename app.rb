@@ -8,5 +8,5 @@ configure :development do
 end
 
 get '/' do
-  'Here I am '
+  'Hello world!'
 end
